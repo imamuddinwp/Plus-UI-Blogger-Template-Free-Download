@@ -10,10 +10,8 @@
 
     Name      : Plus UI
     Version   : 2.6.3
-    Date      : Sep 10, 2022
-    Patched   : November 01, 2023
+    Update    : February 07, 2024
     Type      : Premium
-    Website   : www.nldblog.com
 
     ============================================================================
     NOTE :
@@ -1775,7 +1773,7 @@ function remPar(n,r){function t(n,r){return _0x50d0(r-93,n)}function e(n,r){retu
                 <b:section class='mnMob' id='nav-widget-1' maxwidgets='2' showaddelement='false'>
                   <b:widget id='PageList002' locked='true' title='Additional Menu' type='PageList' version='2' visible='true'>
                     <b:widget-settings>
-                      <b:widget-setting name='pageListJson'><![CDATA[{"link1":{"href":"/p/disclaimer.html","position":1,"title":"Disclaimer"},"link0":{"href":"/p/sitemap.html","position":0,"title":"Sitemap"},"link2":{"href":"/p/privacy.html","position":2,"title":"Privacy"}}]]></b:widget-setting>
+                      <b:widget-setting name='pageListJson'><![CDATA[{"link1":{"href":"https://www.imamuddinwp.com/p/disclaimer.html","position":1,"title":"Disclaimer"},"link0":{"href":"https://www.imamuddinwp.com/p/sitemap.html","position":0,"title":"Sitemap"},"link2":{"href":"https://www.imamuddinwp.com/p/privacy-policy.html","position":2,"title":"Privacy"}}]]></b:widget-setting>
                       <b:widget-setting name='homeTitle'>Home</b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main'>
@@ -1813,22 +1811,22 @@ function remPar(n,r){function t(n,r){return _0x50d0(r-93,n)}function e(n,r){retu
                       <b:widget-setting name='link-7'>#</b:widget-setting>
                       <b:widget-setting name='link-8'>#</b:widget-setting>
                       <b:widget-setting name='link-5'>#</b:widget-setting>
-                      <b:widget-setting name='link-6'>#</b:widget-setting>
-                      <b:widget-setting name='link-3'>#</b:widget-setting>
+                      <b:widget-setting name='link-6'>https://www.linkedin.com/in/imamuddinwp</b:widget-setting>
+                      <b:widget-setting name='link-3'>https://www.youtube.com/@imamuddinwp</b:widget-setting>
                       <b:widget-setting name='link-4'>#</b:widget-setting>
                       <b:widget-setting name='text-1'>Instagram</b:widget-setting>
                       <b:widget-setting name='text-0'>Facebook</b:widget-setting>
-                      <b:widget-setting name='text-3'>Tiktok</b:widget-setting>
+                      <b:widget-setting name='text-3'>Youtube</b:widget-setting>
                       <b:widget-setting name='text-2'>Twitter</b:widget-setting>
-                      <b:widget-setting name='text-5'>Telegram</b:widget-setting>
-                      <b:widget-setting name='text-4'>Whatsapp</b:widget-setting>
-                      <b:widget-setting name='text-7'>LinkedIn</b:widget-setting>
-                      <b:widget-setting name='text-6'>Youtube</b:widget-setting>
+                      <b:widget-setting name='text-5'>Whatsapp</b:widget-setting>
+                      <b:widget-setting name='text-4'>Tiktok</b:widget-setting>
+                      <b:widget-setting name='text-7'>Telegram</b:widget-setting>
+                      <b:widget-setting name='text-6'>LinkedIn</b:widget-setting>
                       <b:widget-setting name='shownum'>6</b:widget-setting>
                       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-                      <b:widget-setting name='link-1'>#</b:widget-setting>
-                      <b:widget-setting name='link-2'>#</b:widget-setting>
-                      <b:widget-setting name='link-0'>#</b:widget-setting>
+                      <b:widget-setting name='link-1'>https://www.instagram.com/imamuddinwpbd</b:widget-setting>
+                      <b:widget-setting name='link-2'>https://www.witter.com/imamuddinwpbd</b:widget-setting>
+                      <b:widget-setting name='link-0'>https://www.facebook.com/imamuddinwpbd</b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main'>
                       <b:include name='content'/>
@@ -1932,10 +1930,10 @@ function remPar(n,r){function t(n,r){return _0x50d0(r-93,n)}function e(n,r){retu
                           </label>
                           <ul>
                             <!--[ Change attribute href='#' to add url ]-->
-                            <li itemprop='name'><a href='#' itemprop='url'>Sub Menu 01</a></li>
-                            <li itemprop='name'><a href='#' itemprop='url'>Sub Menu 02</a></li>
+                            <li itemprop='name'><a href='https://www.imamuddinwp.com/p/contact.html' itemprop='url'>Sub Menu 01</a></li>
+                            <li itemprop='name'><a href='https://www.imamuddinwp.com/p/seo-tools-for-digital-marketing-free.html' itemprop='url'>Sub Menu 02</a></li>
                             <li itemprop='name'><a href='#' itemprop='url'>Sub Menu 03</a></li>
-                            <li itemprop='name'><a href='#' itemprop='url'>Sub Menu 04</a></li>
+                            <li itemprop='name'><a href='https://www.imamuddinwp.com/p/seo-tools-for-digital-marketing-free.html' itemprop='url'>Sub Menu 04</a></li>
                           </ul>
                         </li>
                     
@@ -1953,11 +1951,11 @@ function remPar(n,r){function t(n,r){return _0x50d0(r-93,n)}function e(n,r){retu
                           </label>
                           <ul class='s'>
                             <!--[ Change attribute href='#' to add url ]-->
-                            <li itemprop='name'><a href='#' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 01</span></a></li>
+                            <li itemprop='name'><a href='https://www.imamuddinwp.com/p/contact.html' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 01</span></a></li>
                             <li itemprop='name'><a href='#' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 02</span></a></li>
-                            <li itemprop='name'><a href='#' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 03</span></a></li>
+                            <li itemprop='name'><a href='https://www.imamuddinwp.com/p/seo-tools-for-digital-marketing-free.html' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 03</span></a></li>
                             <li itemprop='name'><a href='#' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 04</span></a></li>
-                            <li itemprop='name'><a href='#' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 05</span></a></li>
+                            <li itemprop='name'><a href='https://www.imamuddinwp.com/p/seo-tools-for-digital-marketing-free.html' itemprop='url'><span><b:include name='folder-icon'/>Sub Menu 05</span></a></li>
                           </ul>
                         </li>
                           
@@ -3876,11 +3874,15 @@ function ctgryPst(f,y,e,T,x,Z){var a=blogUrl.replace(/.*?:\/\//g,"//"),t=0<f.len
                       </b:widget>
                       <b:widget id='LinkList1' locked='false' title='Social Media Link' type='LinkList' version='2' visible='true'>
                         <b:widget-settings>
+                          <b:widget-setting name='text-9'>Menu link 10</b:widget-setting>
+                          <b:widget-setting name='link-9'>javascript:void(0)</b:widget-setting>
+                          <b:widget-setting name='text-8'>Menu link 9</b:widget-setting>
                           <b:widget-setting name='link-7'>https://www.reddit.com/ # Reddit</b:widget-setting>
+                          <b:widget-setting name='link-8'>javascript:void(0)</b:widget-setting>
                           <b:widget-setting name='link-5'>https://www.twitch.tv/ # Twitch</b:widget-setting>
                           <b:widget-setting name='link-6'>https://discord.com/ # Discord</b:widget-setting>
-                          <b:widget-setting name='link-3'>#</b:widget-setting>
-                          <b:widget-setting name='link-4'>#</b:widget-setting>
+                          <b:widget-setting name='link-3'>https://www.youtube.com/@imamuddinwp</b:widget-setting>
+                          <b:widget-setting name='link-4'>https://www.linkedin.com/in/imamuddinwp</b:widget-setting>
                           <b:widget-setting name='text-1'>Instagram</b:widget-setting>
                           <b:widget-setting name='text-0'>Facebook</b:widget-setting>
                           <b:widget-setting name='text-3'>Youtube</b:widget-setting>
@@ -3891,9 +3893,9 @@ function ctgryPst(f,y,e,T,x,Z){var a=blogUrl.replace(/.*?:\/\//g,"//"),t=0<f.len
                           <b:widget-setting name='text-6'>discord</b:widget-setting>
                           <b:widget-setting name='shownum'>4</b:widget-setting>
                           <b:widget-setting name='sorting'>NONE</b:widget-setting>
-                          <b:widget-setting name='link-1'>#</b:widget-setting>
-                          <b:widget-setting name='link-2'>#</b:widget-setting>
-                          <b:widget-setting name='link-0'>#</b:widget-setting>
+                          <b:widget-setting name='link-1'>https://www.instagram.com/imamuddinwpbd</b:widget-setting>
+                          <b:widget-setting name='link-2'>https://twitter.com/imamuddinweb</b:widget-setting>
+                          <b:widget-setting name='link-0'>https://www.facebook.com/imamuddinwpbd</b:widget-setting>
                         </b:widget-settings>
                         <b:includable id='main'>
                           <b:include name='content'/>
@@ -3921,11 +3923,11 @@ function ctgryPst(f,y,e,T,x,Z){var a=blogUrl.replace(/.*?:\/\//g,"//"),t=0<f.len
                           <b:widget-setting name='sorting'>NONE</b:widget-setting>
                           <b:widget-setting name='link-4'>#</b:widget-setting>
                           <b:widget-setting name='text-1'>Blog</b:widget-setting>
-                          <b:widget-setting name='link-1'>#</b:widget-setting>
+                          <b:widget-setting name='link-1'>https://www.imamuddinwp.com/search</b:widget-setting>
                           <b:widget-setting name='text-0'>About</b:widget-setting>
                           <b:widget-setting name='link-2'>3</b:widget-setting>
                           <b:widget-setting name='text-3'>404</b:widget-setting>
-                          <b:widget-setting name='link-0'>#</b:widget-setting>
+                          <b:widget-setting name='link-0'>https://www.imamuddinwp.com/p/about-me-who-am-i.html</b:widget-setting>
                           <b:widget-setting name='text-2'>relatedPostsNum</b:widget-setting>
                           <b:widget-setting name='text-4'>Others</b:widget-setting>
                         </b:widget-settings>
@@ -3954,11 +3956,11 @@ function ctgryPst(f,y,e,T,x,Z){var a=blogUrl.replace(/.*?:\/\//g,"//"),t=0<f.len
                           <b:widget-setting name='link-3'>false</b:widget-setting>
                           <b:widget-setting name='sorting'>NONE</b:widget-setting>
                           <b:widget-setting name='text-1'>Other Product</b:widget-setting>
-                          <b:widget-setting name='link-1'>#</b:widget-setting>
+                          <b:widget-setting name='link-1'>https://www.imamuddinwp.com/p/faqs.html</b:widget-setting>
                           <b:widget-setting name='text-0'>Blogger Theme</b:widget-setting>
                           <b:widget-setting name='link-2'>Show More</b:widget-setting>
                           <b:widget-setting name='text-3'>darkMode</b:widget-setting>
-                          <b:widget-setting name='link-0'>#</b:widget-setting>
+                          <b:widget-setting name='link-0'>https://www.imamuddinwp.com/2023/10/download-blogger-template-free.html</b:widget-setting>
                           <b:widget-setting name='text-2'>showMoreText</b:widget-setting>
                         </b:widget-settings>
                         <b:includable id='main'>
@@ -3985,9 +3987,9 @@ function ctgryPst(f,y,e,T,x,Z){var a=blogUrl.replace(/.*?:\/\//g,"//"),t=0<f.len
                         <b:widget-settings>
                           <b:widget-setting name='sorting'>NONE</b:widget-setting>
                           <b:widget-setting name='text-1'>Documentation</b:widget-setting>
-                          <b:widget-setting name='link-1'>#</b:widget-setting>
+                          <b:widget-setting name='link-1'>https://www.imamuddinwp.com/p/seo-magic-tools-best-free-seo-tools.html</b:widget-setting>
                           <b:widget-setting name='text-0'>Contact</b:widget-setting>
-                          <b:widget-setting name='link-0'>#</b:widget-setting>
+                          <b:widget-setting name='link-0'>https://www.imamuddinwp.com/p/contact.html</b:widget-setting>
                         </b:widget-settings>
                         <b:includable id='main'>
                           <b:include name='widget-title'/>
